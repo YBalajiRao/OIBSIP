@@ -5,6 +5,7 @@ This repository contains a simple landing page created using HTML and CSS.
 
 ## Overview
 ![image](https://github.com/YBalajiRao/Balajirao/assets/96159638/1bc3c86c-8004-4e12-99bb-0b4b0af9ab31)# Portfolio
+![image](https://github.com/YBalajiRao/OIBSIP/blob/main/oiasis%20project%20task%201/screenshot.png.png)
 
 ![Screenshot of the Landing Page](oiasis project task 1/screenshot.png.png)
 ![Screenshot of the Landing Page](oiasis project task 1/screenshot.png)
