@@ -9,6 +9,9 @@ The landing page is designed to showcase [briefly describe what your landing pag
 
 oiasis project task 1/screenshot.png.png
 
+![Screenshot of the Landing Page](oiasis project task 1/screenshot.png.png)
+
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
