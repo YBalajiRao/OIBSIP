@@ -5,7 +5,10 @@ This repository contains a simple landing page created using HTML and CSS.
 
 ## Overview
 
-The landing page is designed to showcase [briefly describe what your landing page is about]. It includes [mention any key features or components of your landing page]. 
+![Screenshot of the Landing Page](oiasis project task 1/screenshot.png.png)
+![Screenshot of the Landing Page](oiasis project task 1/screenshot.png)
+
+
 
 oiasis project task 1/screenshot.png.png
 
