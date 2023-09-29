@@ -6,7 +6,7 @@
 
 
 
-Welcome to our landing page! This is where your digital journey begins. Our carefully designed webpage combines visual appeal with user-focused design to provide an engaging and informative experience. 
+Welcome to our landing page! This is where your digital journey begins. Our carefully designed webpage combines visual appeal with user-focused design to provide an engaging and informative experience. ,
 
 #PortFolio
 
